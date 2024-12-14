@@ -12,4 +12,4 @@
 - **Content**: Leveraged ICT and IoT for real-time environmental monitoring and feedback.
 - **Image**:
   ![ICT for Climate Change](../assets/images/Image2_The-Impacts-of-ICT-on-Climate-Change-.jpg)
-  *Caption:* "Leveraging ICT and IoT to mitigate climate change impacts, focusing on adaptive solutions for real-time environmental monitoring and feedback."
+  *Caption:* "Leveraging ICT and IoT to mitigate climate change impacts, focusing on adaptive solutions for real-time environmental monitoring and feedback." 
