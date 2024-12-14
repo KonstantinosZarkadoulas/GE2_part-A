@@ -11,10 +11,4 @@ Images taken by the Thematic Mapper on the Landsat 4 satellite and Operational L
 
 ### Slide 2: ICT for Climate Change
 ![ICT for Climate Change](assets/images/Image2_The-Impacts-of-ICT-on-Climate-Change-.jpg)
-*Caption:* "How can ICT impact on Climate Change be reduced, and how Digital technologies can put the world on a net-zero emissions path?
-
-Climate change is the defining challenge of this era. It threatens to raise vulnerability, undercut economic gains, impede social and economic progress, and deteriorate residents’ access to essential services and quality of life throughout the world. The planet is endangered by growing greenhouse gas (GHG) emissions which directly contribute to climate change. Scientists have cautioned that there is only a limited amount of time left to keep global warming to a maximum of 1.5°C, beyond which any increase will exacerbate the dangers of climatic disasters.
-
-Furthermore, experts warn that the already-disruptive climatic impacts will reach catastrophic proportions, inflicting irreparable harm to the planet’s key ecological systems. These climate impacts may become self-reinforcing loops that disproportionately harm the young, elderly, and other vulnerable people.
-
-Information and communication technologies (ICTs) are a collection of devices and services that acquire, transfer, and display data and information digitally. These include the internet, wireless networks, cell phones, computers, software, middleware, video conferencing, and social networking. ICTs can contribute to addressing the world’s most critical climate challenges and facilitating the much-needed transition to a circular economy. They can also be used to monitor climate change and help mitigate and adapt to climate change."
+*Caption:* "Information and communication technologies (ICTs) are a collection of devices and services that acquire, transfer, and display data and information digitally. These include the internet, wireless networks, cell phones, computers, software, middleware, video conferencing, and social networking. ICTs can contribute to addressing the world’s most critical climate challenges and facilitating the much-needed transition to a circular economy. They can also be used to monitor climate change and help mitigate and adapt to climate change."
